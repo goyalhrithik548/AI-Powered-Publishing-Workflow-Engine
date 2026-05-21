@@ -20,7 +20,7 @@ from app.database.queries import get_author_by_email
 
 logger = logging.getLogger(__name__)
 router = APIRouter()
-N8N_WEBHOOK_URL = "http://localhost:5678/webhook/author-support"
+N8N_WEBHOOK_URL = "https://eclair-snowcap-stoppable.ngrok-free.dev/webhook/author-support"
 
 @router.post("/chat")
 def chat(payload: dict):
