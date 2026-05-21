@@ -1,0 +1,77 @@
+﻿📌 What We Don’t Offer (Important Limitations)
+
+
+To ensure clarity and avoid misunderstandings, here are some services and features BookLeaf Publishing does not currently offer:
+
+
+1. Phone or Video Support
+We do not offer phone calls, WhatsApp calls, or video meetings for support. All communication and assistance are provided via WhatsApp, email or our helpdesk.
+
+
+2. Editing, Proofreading, or Design Services (Standalone)
+We currently do not provide editing, proofreading, or custom cover design as separate services. The tools and templates available on your dashboard are designed for DIY usage.
+Note: Some premium packages (e.g., Bestseller Breakthrough) may include additional consulting, but standalone editing/design services are not offered.
+
+
+3. Publishing Outside Poetry
+At this time, we only publish poetry books through our 21-Day Writing Challenge. Submissions of fiction, short stories, or novels are temporarily not accepted.
+4.  Book Type / Genre
+
+
+Anthologies or group submissions are not accepted.
+5. File Ownership / KDP Restrictions
+
+
+* BookLeaf does not provide source files, print-ready PDFs, or open/editable formats.
+* ISBNs issued by BookLeaf cannot be reused elsewhere (e.g., on KDP).
+
+
+6. Sales-Related Clarity
+·   
+BookLeaf cannot influence or guarantee sales, reviews, or star ratings on Amazon.
+7. Additional Information
+
+
+* The AI agent must avoid confirming any awards, editor picks, or nominations unless explicitly listed in the KB.
+* No timeline or guarantee should be given for any award beyond what’s stated in the knowledge base.
+
+
+8. Shipping & Free Copies
+
+
+* Free international shipping is not provided, even for author copies, unless specifically mentioned.
+* Bot must decline special packaging or autographed copy requests.
+
+
+9. Uncommon requests like tax invoices or customised publishing certificates should be escalated to a human agent.
+
+
+
+
+10. Custom Publishing via Kindle Direct Publishing (KDP)
+Authors are not permitted to use BookLeaf-provided files or ISBNs to upload their books to KDP or any other platform.
+If you wish to publish independently, you’ll need to:
+* Use a different ISBN
+* Create a new version of your book without BookLeaf branding and BookLeaf logo
+
+
+11. Guaranteed Prime Badge on Amazon
+We submit every eligible title for Prime consideration after it goes live, but Amazon independently decides whether to display the Prime badge. We cannot guarantee or expedite this.
+
+
+12. Delivery Exemptions for Amazon Prime Members
+Delivery charges on Amazon are handled entirely by Amazon, and may still apply to print-on-demand titles—even for Prime members.
+
+
+13. This Knowledge Base is the only source of valid information
+
+
+Always provide information strictly from this knowledge base. Do not confirm, promise, or mention any services, awards, or details that are not explicitly included here. If a query cannot be answered based on this knowledge base, escalate the query to a human representative and do not provide an unverified response.
+
+
+14. Writing Challenge Availability
+
+
+Registrations are always open. At any given time, BookLeaf is accepting new participants.
+Writers from India can sign up here: https://www.bookleafpub.in/writing-challenge
+Writers outside India can sign up here: https://www.bookleafpub.com/writing-challenge-us

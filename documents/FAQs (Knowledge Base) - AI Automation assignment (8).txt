@@ -1,0 +1,65 @@
+﻿📁 Getting Started
+│
+├── 📂 Challenge Overview
+│   ├── How do I join the 21-Day Writing Challenge?
+│   ├── What’s included in the ₹1999 publishing package?
+│   ├── Is this challenge genuine?
+│   ├── Can I use a pen name?
+│   └── What if I want to publish without joining the challenge?
+│
+├── 📂 Payments & Refunds
+│   ├── What does the ₹1999 cover?
+│   ├── Can I get a refund if I change my mind?
+│   └── Can I upgrade later with add-on services?
+
+
+📁 Dashboard & Submission
+│
+├── 📂 Login & Access
+│   ├── I didn’t receive my login details — what should I do?
+│   ├── I forgot my password — how can I reset it?
+│
+├── 📂 Writing & Saving Poems
+│   ├── How do I submit my poems?
+│   ├── Can I write in Hindi?
+│   ├── How do I save my progress?
+│   ├── Can I rearrange my poems later?
+│
+├── 📂 Finalizing Submission
+│   ├── What happens after I submit all poems?
+│   ├── How do I review and finish my submission?
+
+
+📁 Cover Design & Book Setup
+│
+├── 📂 Cover Creator Tool
+│   ├── How do I design my cover?
+│   ├── Can I upload my own cover design?
+│   ├── Why do I see only 4 templates?
+│
+├── 📂 Back Cover & Author Info
+│   ├── What should I write on the back cover?
+│   ├── Can I upload my profile photo?
+│   └── How do I edit or remove the back cover text?
+
+
+📁 Publishing & Distribution
+│
+├── 📂 Publishing Timeline
+│   ├── How long does it take to publish my book?
+│   ├── What’s the timeline with the ₹8899 add-on?
+│
+├── 📂 Sales & Royalties
+│   ├── Where will my book be available?
+│   ├── What’s the royalty rate?
+│   └── When will I get my royalty report?
+
+
+📁 Policies & Support
+│
+├── 📂 Ownership & Copyright
+│   ├── Who owns the rights to my book?
+│
+├── 📂 Technical Issues
+│   ├── My dashboard isn’t working — what should I do?
+│   └── Can I submit via email if the portal isn’t loading?

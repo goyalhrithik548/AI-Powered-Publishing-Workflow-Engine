@@ -1,0 +1,184 @@
+﻿Royalty Queries & Sales Reports
+________________
+
+
+📊 How to Check Your Sales Report
+You can view your sales report online by visiting:
+🔗 https://ebooks.bookleafpub.com/sales-reports
+Once on the page, you’ll find three report types:
+1. Live Sales – BookLeaf Store (eBooks only)
+
+2. Sales Report – International Author
+
+3. Sales Report – Indian Author
+
+🔹 A. Live eBook Sales (BookLeaf Store only)
+   * This shows real-time eBook sales on BookLeaf’s online store.
+
+   * You'll be redirected to a Google Sheet.
+
+   * Select your book title from the dropdown to view details.
+
+🔹 B. Sales Report – Indian & International Authors
+      * Includes both paperback and eBook sales across platforms.
+
+      * Choose the appropriate report based on your location.
+
+🧾 To use the report:
+         1. Enter your book's ISBN in the white-highlighted column.
+
+         2. Delete any pre-filled ISBNs before entering yours.
+
+         3. Sales data will populate automatically in the adjacent columns.
+
+
+📅 Update Schedule for Sales Reports:
+            * Sales data is sourced directly from the platforms where your book is published.
+
+            * Reports are updated monthly, usually after the 15th of each month.
+
+            * The report is always current up to the month before last month.
+(For example, if today is March 10th, the latest report available would be up to January.)
+            * For new authors, the first sales report is available after 45-60 business days since the book goes live.
+
+
+________________
+
+
+
+
+💸 When and How Will I Receive My Royalty Payment?
+Royalties are paid once your earnings cross a minimum threshold and are processed in a phased manner.
+Minimum Thresholds:
+               * For Indian authors: ₹2000
+
+               * For International authors: $100
+
+________________
+
+
+Once Your Royalty Crosses the Threshold:
+                  1. Please inform us via the helpdesk to initiate your royalty transfer.
+
+                  2. After we verify your eligibility, we’ll send you a Razorpay payout link to your registered email address.
+
+                  3. Check both your Inbox and Spam/Junk folders for the email.
+________________
+
+
+How to Claim Your Royalty:
+                     * Click on the payout link in the email.
+
+                     * Enter your UPI ID or bank account details as prompted.
+
+                     * Your royalty will be transferred to you accordingly.
+
+💡 Note: The payment can take anywhere from 1 minute to 24 hours to reflect in your account, depending on your bank or wallet provider.
+If you face any issues during this process, please reach out to our support team — we’re always here to assist.
+________________
+
+
+For authors enrolled in the Bestseller Breakthrough Package, royalties are paid on-demand—meaning you can request a royalty payout anytime after your book has been live for at least 30 business days.
+This 30-day window allows for:
+                        * Completion of initial reporting cycles from platforms like Amazon, Flipkart, etc.
+                        * Validation of sales data
+                        * Processing of any returns or adjustments
+________________
+
+
+📘 eBook & 📗 Paperback Royalty Structure
+We are committed to full transparency when it comes to your royalty earnings.
+Your detailed sales report (with royalty breakdowns) is available at:
+🔗 https://ebooks.bookleafpub.com/sales-reports
+________________
+
+
+📘 eBook Royalty:
+                        * You receive 80% royalty on the net sale price of each eBook sold through our store (unless your package includes 100% royalty).
+
+                        * This ensures that you benefit from most of the profits while keeping the book attractively priced for readers.
+
+________________
+
+
+📗 Paperback Royalty:
+Paperback royalty is calculated differently and depends on the following:
+                           * Platform discounts
+
+                           * Printing cost
+
+                           * GST (Goods & Services Tax)
+
+                           * Packaging and handling charges
+
+                           * Distribution and return expenses
+
+💰 Royalty Formula:
+Selling Price – Printing & Market Access Charges = Your Royalty Base
+Then:
+                              * If you're on the regular publishing model: you get 80% of this amount
+
+                              * If you're on the Bestseller Breakthrough Package: you get 100% of this amount
+
+To calculate your royalty, you can use our Royalty Calculator here:
+🔗 https://www.bookleafpub.in/printing-cost-royalty-calculator
+
+
+________________
+
+
+❓ What Does “80% Royalty” Mean?
+When we say “80% royalty,” it refers to 80% of the profit earned, not 80% of the book's listed price.
+The book’s listed price includes:
+                                 * Printing cost
+
+                                 * Platform fees (e.g., Amazon commission)
+
+                                 * GST and other taxes
+
+                                 * Handling and packaging
+
+                                 * Distribution & return costs
+
+                                 * Platform discounts (e.g., Amazon often takes 25–50% off MRP)
+Example:
+If your book is listed at ₹150 on Amazon:
+                                    * ₹40 may go toward printing
+
+                                    * ₹45 may be deducted by Amazon (platform discount + fees + taxes)
+
+                                    * Remaining profit: ₹65
+
+                                    * You’ll receive 80% of ₹65 = ₹52
+
+You can use our royalty calculator for an accurate estimate:
+🔗 https://www.bookleafpub.in/printing-cost-royalty-calculator
+________________
+
+
+💯 Understanding “100% Royalty” (For Bestseller Breakthrough Authors Only)
+If you’ve purchased the Bestseller Breakthrough Package, you're eligible for 100% royalty.
+This means:
+                                       * You receive the entire profit (after deductions) from each sale.
+
+                                       * You still don’t receive 100% of the listed price — platform costs and printing still apply.
+
+Example:
+If your book is listed at ₹150:
+                                          * Printing + taxes + fees = ₹60
+
+                                          * Net profit = ₹90
+
+                                          * You’ll receive ₹90 as your royalty
+
+This model ensures the entire profit margin goes to you.
+Again, use the Royalty calculator to view detailed estimations.
+
+
+________________
+
+
+💰 If a Bestseller Breakthrough Author Requests Royalty Payout
+If you’ve opted for the Bestseller Breakthrough Package, you are entitled to request your royalty any time — there is no minimum payout threshold.
+Simply inform us through the helpdesk whenever you wish to receive your royalty payout. We will verify and process your request accordingly.
+________________

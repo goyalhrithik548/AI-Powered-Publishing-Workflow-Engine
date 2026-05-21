@@ -1,0 +1,214 @@
+﻿Dashboard Portal – Submissions, Editing & Layout
+________________
+
+
+🔐 Forgot Your Login Credentials?
+If you forget your login details, follow these steps to reset your password:
+1. Visit 👉 https://dashboard.bookleafpub.in
+
+2. Click on “Forgot Password”
+
+3. Enter your registered email address
+
+4. You’ll receive a reset code via email
+
+5. Use the code to set a new password and regain access
+
+⚠️ If you face any issues, please raise a support ticket:
+👉 https://bookleafpublishing.freshdesk.com/support/tickets/new
+________________
+
+
+📹 Dashboard Tutorial Video
+Before submitting poems, we recommend watching this short video:
+🎥 https://youtu.be/Z9wxMeo624k
+This video explains:
+   * How to navigate your dashboard
+
+   * How to submit poems and use available tools
+
+   * Tips to avoid common issues
+
+________________
+
+
+🖊️ Submitting Hindi Poems
+Yes, you can submit Hindi poems directly in the dashboard. Since there is no built-in Hindi keyboard, you can use:
+      * Google Input Tools or any Hindi typing software to type directly
+
+      * Or write in a separate document and copy-paste into the dashboard
+
+✅ Please double-check formatting after pasting your text.
+________________
+
+
+📌 Acknowledgement, Dedication, and Preface Sections
+These sections are preset and mandatory for all books. Here’s what you should know:
+         * You cannot remove these sections
+
+         * You cannot change their headings — they will appear in English only
+
+         * If left empty, they will appear as blank pages in the final book
+
+         * We recommend writing at least a minimal note in each section to avoid blank pages
+
+💡 These sections help standardize formatting across all published books.
+________________
+
+
+🧾 Poem Submission: How to Add, Save & Finalize
+To submit poems:
+            1. Go to Book Interior section
+
+            2. Click “Add” to upload each poem individually
+
+            3. After each entry, click “Save as Draft” to preserve your work
+
+You can continue editing and saving until you're ready to finalize.
+🚫 Note: The platform does not support image uploads. Only text-based poems are allowed.
+________________
+
+
+📚 Arranging Poems in Order
+               * The dashboard does not support drag-and-drop or rearrangement
+
+               * To change the order of poems, you will need to delete all entries and re-upload them in the desired sequence
+
+We recommend planning the order of poems in advance before submitting.
+________________
+
+
+📝 Finalizing Your Poems – The Preview Step
+Once you’ve completed your submission:
+                  1. Click “Preview and Finish” — this generates a formatted preview of your book
+
+                  2. It shows how your poems and details will appear in print
+
+🕒 Preview Loading Tip:
+ Preview usually loads within a few minutes. If it takes longer than 5 minutes, refresh the page and try again.
+After reviewing:
+                     * Click “Save and Continue” to proceed
+
+                     * Or click “Back to Book Interior” if you need to make changes
+
+________________
+
+
+✏️ Can I Edit My Poems After Preview?
+Yes — even after generating the preview, you can:
+                        * Click “Previous Step”
+
+                        * Return to the Book Interior
+
+                        * Edit your poems or introductory sections
+
+Make sure to re-check your preview after making edits.
+
+
+________________
+
+
+
+
+🎨 Cover Design: General Guidelines
+The Cover Design section lets you create and customize the front and back cover of your book.
+📱 Mobile Browsers Not Supported
+ Please use a laptop or desktop computer when working in this section for full functionality.
+________________
+
+
+🔳 Choosing a Front Cover Background
+To explore all available background options:
+                           1. Go to the Cover Design section in your dashboard
+
+                           2. Select “Background”
+
+                           3. Click on “Front”
+
+                           4. Browse from a wide range of image templates
+
+Alternatively, you can:
+                              * Use a solid color background
+
+                              * Or upload your own custom front cover design
+
+📐 Custom Cover Size Requirement:
+ If uploading your own front design, ensure the image is exactly 5 x 8 inches in size to avoid misalignment or printing issues.
+________________
+
+
+🖼️ Uploading Custom Cover with Your Own Fonts
+You are welcome to upload a fully custom front cover with your own font styles, sizes, and layout.
+Steps to upload:
+                                 1. Go to Cover Design > Background > Front
+
+                                 2. Click “Click to upload an image”
+
+                                 3. Select and upload your custom 5x8" cover
+
+If you face any upload or formatting issues, feel free to contact support.
+________________
+
+
+🔲 Back Cover Design Options
+❌ Uploading a Custom Back Cover
+Currently, uploading a full-image custom back cover is not supported.
+Instead, you can:
+                                    * Choose from solid color backgrounds
+
+                                    * Edit the text and layout elements using the dashboard tools
+
+________________
+
+
+🔧 Editing Back Cover Text
+To customize the back cover:
+                                       1. Click “Text” > select “Back”
+
+                                       2. Add or edit the following two sections:
+
+                                          * About the Book – Up to 60 words
+
+                                          * About the Author – Up to 60 words
+
+✍️ Tip: Keep both descriptions concise, clear, and compelling.
+If the pre-filled text can’t be selected or edited:
+                                             * Refresh the page
+
+                                             * Or switch to a different browser
+
+                                             * Make sure you're using a PC or laptop
+
+________________
+
+
+🧑 Adding a Profile Picture to the Back Cover
+To add your photo:
+                                                1. In the Back Cover area, click “Add Author Image”
+
+                                                2. Upload your picture from your device
+
+❗ Once uploaded, the profile picture cannot be removed, only replaced.
+If no image is uploaded, the placeholder will not appear in the final print.
+________________
+
+
+✅ Finalizing Your Cover
+Once your front and back cover designs are complete:
+                                                   1. Click “Preview and Finish” (right-hand side of the dashboard)
+
+                                                      * This generates a print-ready preview of your complete book cover
+
+                                                         2. Review the preview carefully
+
+                                                            * This is how your book will appear when printed
+
+📝 If satisfied: Click “Save and Continue”
+ 🔄 If not: Click “Back to Cover Design” to make changes
+________________
+
+
+📦 What Happens After Cover Design?
+Once the cover is finalized, you’ll move to the Book Distribution section, where you enter “about the author” and “about the book” information.
+⚠️ Note: Information entered here (about the author or about the book) will not auto-update your back cover. This is only for the ecommerce stores like BookLeaf’s bookstore and Amazon.
+If you'd like the same details reflected on the back cover, you must manually edit them in the Cover Design section.

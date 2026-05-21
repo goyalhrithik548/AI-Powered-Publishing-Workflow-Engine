@@ -1,0 +1,48 @@
+﻿Login Credentials After Challenge Registration
+________________
+
+
+🟢 When Will I Receive My Login Credentials?
+As soon as your payment is successfully processed, your login credentials are automatically emailed to you within 2 minutes.
+If You Don’t See the Email:
+1. Check your Spam or Junk folder
+
+2. If not found, raise a support ticket here:
+👉 https://bookleafpublishing.freshdesk.com/support/tickets/new
+
+Our team will verify your registration and re-send the login details promptly.
+________________
+
+
+🔁 What If I’m a Returning Author?
+If you're registering for the challenge again using the same email ID, you will not receive a new login.
+   * Your existing dashboard remains active.
+
+   * Simply log in using the same credentials as before.
+
+🛠️ To activate your new challenge space, our team needs to manually enable the “Add a New Book” button on your dashboard.
+Please share your registered email address via ticket or chat so we can activate it from our end.
+Once enabled:
+      * Log in to your dashboard
+
+      * Click on “Add a New Book” (right side of the dashboard)
+
+      * A new project will be created where you can begin submitting your poems
+
+⚠️ If the button is visible but not clickable, it means it hasn’t been enabled yet. Kindly contact us and we’ll do it manually.
+________________
+
+
+📧 What If I Registered With a Different Email ID?
+If you register with a new email, a new account is created.
+         * We do not support account merging.
+
+         * Each email corresponds to one unique dashboard and login.
+
+If you accidentally registered with a new email and want to use your old account, contact us before beginning your challenge.
+________________
+
+
+🔒 Can I Participate in Multiple Challenges at the Same Time?
+No — each participant can have only one active/live challenge at a time.
+Even if the “Add a New Book” button is visible, it will only allow you to start a new challenge after the current one is completed or closed.
