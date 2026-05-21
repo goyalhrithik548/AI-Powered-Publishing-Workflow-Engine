@@ -12,7 +12,6 @@ from app.database.db import (
     require_single_record,
 )
 
-
 logger = logging.getLogger(__name__)
 
 AUTHOR_COLUMNS = "id,email,phone,author_name,instagram_handle,book_title"
@@ -54,6 +53,10 @@ def _name_similarity(name_1, name_2):
     return SequenceMatcher(None, normalized_name_1, normalized_name_2).ratio()
 
 
+# =========================
+# CHAT MEMORY
+# =========================
+
 def save_chat_memory(session_id, email, user_message, assistant_response):
     global _CHAT_MEMORY_SCHEMA
 
@@ -75,8 +78,14 @@ def save_chat_memory(session_id, email, user_message, assistant_response):
                 get_table("chat_memory").insert(required_payload),
                 "save chat memory"
             )
+
             _CHAT_MEMORY_SCHEMA = "required"
-            logger.info("Saved chat_memory row for session_id=%s", session_id)
+
+            logger.info(
+                "Saved chat_memory row for session_id=%s",
+                session_id
+            )
+
             return data
 
         except SchemaMismatchError:
@@ -102,7 +111,11 @@ def save_chat_memory(session_id, email, user_message, assistant_response):
         "save chat memory role rows"
     )
 
-    logger.info("Saved chat_memory role rows for session_id=%s", session_id)
+    logger.info(
+        "Saved chat_memory role rows for session_id=%s",
+        session_id
+    )
+
     return data
 
 
@@ -121,6 +134,7 @@ def get_chat_history(session_id):
                 .order("timestamp", desc=False),
                 "get chat history"
             )
+
             _CHAT_MEMORY_SCHEMA = "required"
 
             messages = []
@@ -141,7 +155,12 @@ def get_chat_history(session_id):
                         "content": assistant_response
                     })
 
-            logger.info("Loaded %s chat history messages for session_id=%s", len(messages), session_id)
+            logger.info(
+                "Loaded %s chat history messages for session_id=%s",
+                len(messages),
+                session_id
+            )
+
             return messages
 
         except SchemaMismatchError:
@@ -167,19 +186,32 @@ def get_chat_history(session_id):
                 "content": message
             })
 
-    logger.info("Loaded %s chat history messages for session_id=%s", len(messages), session_id)
+    logger.info(
+        "Loaded %s chat history messages for session_id=%s",
+        len(messages),
+        session_id
+    )
+
     return messages
 
 
-def log_query(query, detected_intent, confidence, ai_response"", escalated=False):
-    global _QUERY_LOG_SCHEMA
+# =========================
+# QUERY LOGGING
+# =========================
 
+def log_query(
+    query,
+    detected_intent,
+    confidence,
+    ai_response="",
+    escalated=False
+):
     payload = {
-        "query": query,
-        "detected_intent": detected_intent,
-        "confidence": confidence,
-        "escalated": escalated,
+        "user_query": query,
+        "detect_intent": detected_intent,
+        "confidence_score": confidence,
         "ai_response": ai_response,
+        "escalation": escalated,
         "timestamp": _utc_timestamp()
     }
 
@@ -188,10 +220,18 @@ def log_query(query, detected_intent, confidence, ai_response"", escalated=False
         "log query"
     )
 
-    logger.info("Logged query with intent=%s confidence=%s", detected_intent, confidence)
+    logger.info(
+        "Logged query with intent=%s confidence=%s",
+        detected_intent,
+        confidence
+    )
 
     return data
 
+
+# =========================
+# AUTHOR LOOKUPS
+# =========================
 
 def find_author_by_email(email):
     normalized_email = _normalize_email(email)
@@ -213,6 +253,7 @@ def find_author_by_email(email):
     )
 
     logger.info("Found author by email")
+
     return author
 
 
@@ -236,6 +277,7 @@ def find_author_by_phone(phone):
     )
 
     logger.info("Found author by phone")
+
     return author
 
 
@@ -248,7 +290,10 @@ def find_author_by_instagram_handle(instagram_handle):
     rows = execute_supabase_query(
         get_table("authors")
         .select(AUTHOR_COLUMNS)
-        .in_("instagram_handle", [normalized_handle, f"@{normalized_handle}"]),
+        .in_(
+            "instagram_handle",
+            [normalized_handle, f"@{normalized_handle}"]
+        ),
         "find author by instagram handle"
     )
 
@@ -259,6 +304,7 @@ def find_author_by_instagram_handle(instagram_handle):
     )
 
     logger.info("Found author by instagram handle")
+
     return author
 
 
@@ -278,17 +324,28 @@ def search_author_by_name(author_name):
     matches = []
 
     for row in rows:
-        similarity = _name_similarity(normalized_name, row.get("author_name"))
+        similarity = _name_similarity(
+            normalized_name,
+            row.get("author_name")
+        )
 
         if similarity > NAME_MATCH_THRESHOLD:
             enriched_row = dict(row)
-            enriched_row["_name_similarity"] = round(similarity, 2)
+
+            enriched_row["_name_similarity"] = round(
+                similarity,
+                2
+            )
+
             matches.append(enriched_row)
 
     if not matches:
         raise EmptyResultError("No matching author found")
 
-    matches.sort(key=lambda row: row.get("_name_similarity", 0), reverse=True)
+    matches.sort(
+        key=lambda row: row.get("_name_similarity", 0),
+        reverse=True
+    )
 
     if len(matches) > 1:
         logger.info("Author name search returned multiple matches")
@@ -297,12 +354,8 @@ def search_author_by_name(author_name):
 
     return matches
 
-def get_author_by_email(email):
-    """
-    Fetch single author using email.
-    Used for personalized AI responses.
-    """
 
+def get_author_by_email(email):
     normalized_email = _normalize_email(email)
 
     if not normalized_email:
