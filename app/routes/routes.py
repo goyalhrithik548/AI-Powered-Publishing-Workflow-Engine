@@ -172,6 +172,14 @@ def chat(payload: dict):
                 email=email
             )
 
+            log_query(
+                user_query=query,
+                detected_intent=intent_result["intent"],
+                confidence_score=intent_result["confidence"],
+                ai_response=final_response,
+                escalation=False
+             )
+            
             return {
                 "success": True,
                 "intent": intent_result["intent"],
