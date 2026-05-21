@@ -18,6 +18,7 @@ def log_query(
             query=user_query,
             detected_intent=detected_intent,
             confidence=confidence_score,
+            ai_response=ai_response,
             escalated=escalation
         )
 
