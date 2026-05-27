@@ -1,4 +1,4 @@
-# BookPublishing AI Assistant
+# AI-Powered Publishing Workflow Engine
 
 An AI-powered publishing support assistant built using FastAPI, Groq LLMs, RAG (Retrieval-Augmented Generation), FAISS vector search, and Supabase.
 
